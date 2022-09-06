@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @apedley2006
-- 👀 I’m interested in ... accessability of technology.
+- 👀 I’m interested in ... accessibility of technology.
 - 🌱 HTML, CSS, JavaScript, Node.js, React, MongoDB, and Python
 - 💞️ I’m looking to collaborate on ... anything and everything
 - 📫 How to reach me ... apedley2006@gmail.com
